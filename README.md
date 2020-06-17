@@ -16,3 +16,4 @@
 - The sum variable is initialized to 0.
 - The for loop is used to find the sum of the series and the number is incremented for each iteration.
 - The numbers are added to the sum variable and this continues till the value of i reaches the number of terms.
+- Then the sum of the series is printed.
