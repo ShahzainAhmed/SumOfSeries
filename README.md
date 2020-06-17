@@ -9,3 +9,4 @@
 - Initialize the sum variable to 0.
 - Use a for loop ranging from 1 to the number and find the sum of the series.
 - Print the sum of the series after rounding it off to two decimal places.
+- Exit.
