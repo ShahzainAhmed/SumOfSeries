@@ -1,3 +1,6 @@
+# Sum of Series = 1 + x^2/2 + x^3/3 + … x^n/n
+
+# Taking input from the user.
 n=int(input("Enter the number of terms:"))
 x=int(input("Enter the value of x:"))
 sum1=1
