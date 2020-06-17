@@ -5,4 +5,4 @@
 ### 1 + x^2/2 + x^3/3 + … x^n/n.
 
 ## Problem Solution:
-- Take in the number of terms to 
+- Take in the number of terms to find the sum of the series for.
