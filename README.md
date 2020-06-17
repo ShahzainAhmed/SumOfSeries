@@ -13,3 +13,4 @@
 
 ## Program Explanation:
 - User must enter the number of terms to find the sum of.
+- The sum variable is initialized to 0.
