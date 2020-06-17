@@ -6,3 +6,4 @@
 
 ## Problem Solution:
 - Take in the number of terms to find the sum of the series for.
+- Initialize the sum variable to 0.
