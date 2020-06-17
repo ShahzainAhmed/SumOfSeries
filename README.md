@@ -14,3 +14,4 @@
 ## Program Explanation:
 - User must enter the number of terms to find the sum of.
 - The sum variable is initialized to 0.
+- The for loop is used to find the sum of the series and the number is incremented for each iteration.
