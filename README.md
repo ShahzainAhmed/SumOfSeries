@@ -7,3 +7,4 @@
 ## Problem Solution:
 - Take in the number of terms to find the sum of the series for.
 - Initialize the sum variable to 0.
+- Use a for loop ranging from 1 to the number and 
