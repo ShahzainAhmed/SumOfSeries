@@ -2,6 +2,8 @@
 
 # Taking input from the user.
 n=int(input("Enter the number of terms:"))
+
+# Taking input from the user.
 x=int(input("Enter the value of x:"))
 sum1=1
 for i in range(2,n+1):
